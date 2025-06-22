@@ -1,0 +1,8 @@
+*{
+    background-color: #FBF4E6;
+}
+.hh-container{
+    display: flex;
+    gap: 50px;
+    width: 100%;
+}
